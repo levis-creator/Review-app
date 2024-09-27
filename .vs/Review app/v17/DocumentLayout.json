@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\levi\\source\\repos\\Review app\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284E45-8820-4B10-B23A-6C6E16CE1395}|Review app\\Review app.csproj|c:\\users\\levi\\source\\repos\\review app\\review app\\repositories\\interfaces\\ipokomonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC284E45-8820-4B10-B23A-6C6E16CE1395}|Review app\\Review app.csproj|solutionrelative:review app\\repositories\\interfaces\\ipokomonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC284E45-8820-4B10-B23A-6C6E16CE1395}|Review app\\Review app.csproj|c:\\users\\levi\\source\\repos\\review app\\review app\\repositories\\pokomonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC284E45-8820-4B10-B23A-6C6E16CE1395}|Review app\\Review app.csproj|solutionrelative:review app\\repositories\\pokomonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokomonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\levi\\source\\repos\\Review app\\Review app\\Repositories\\PokomonRepository.cs",
+              "RelativeDocumentMoniker": "Review app\\Repositories\\PokomonRepository.cs",
+              "ToolTip": "C:\\Users\\levi\\source\\repos\\Review app\\Review app\\Repositories\\PokomonRepository.cs",
+              "RelativeToolTip": "Review app\\Repositories\\PokomonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:42:59.311Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPokomonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\levi\\source\\repos\\Review app\\Review app\\Repositories\\Interfaces\\IPokomonRepository.cs",
+              "RelativeDocumentMoniker": "Review app\\Repositories\\Interfaces\\IPokomonRepository.cs",
+              "ToolTip": "C:\\Users\\levi\\source\\repos\\Review app\\Review app\\Repositories\\Interfaces\\IPokomonRepository.cs",
+              "RelativeToolTip": "Review app\\Repositories\\Interfaces\\IPokomonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:42:54.731Z",
+              "EditorCaption": ""
             }
           ]
         }

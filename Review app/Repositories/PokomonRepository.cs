@@ -11,7 +11,7 @@ namespace Review_app.Repositories
         {
             _dataContext = context;
         }
-        public ICollection<Pokomon> GetPokomons()
+        public IEnumerable<Pokomon> GetPokomons()
         {
             return _dataContext.Pokomons.OrderBy(p => p.Id).ToList();
         }
